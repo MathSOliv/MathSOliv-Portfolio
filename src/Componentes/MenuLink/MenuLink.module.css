@@ -1,0 +1,9 @@
+.linkNav{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+.linkSelect{
+    font-weight: bold;
+    text-decoration: underline;
+}
